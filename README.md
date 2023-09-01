@@ -1,6 +1,6 @@
 # denfaktorial
 
-##Sedikit hal terkait Faktorial:
+## Sedikit hal terkait Faktorial:
 
 Faktorial merupakan perkalian berulang dari tiap angka positif dimulai dari 1 hingga angka itu sendiri
 Faktorial dari n ditulis dengan ekspresi n!.
